@@ -116,3 +116,11 @@ C:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\staticwebassets\DatingApp.API
 C:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.dll
 C:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.pdb
 C:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.genruntimeconfig.cache
+C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
