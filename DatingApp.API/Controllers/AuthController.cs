@@ -4,7 +4,6 @@ using DatingApp.API.Models;
 using DatingApp.API.Dtos;
 using Microsoft.AspNetCore.Mvc;
 
-
 using System;
 using System.Text;
 using System.Security.Claims;
@@ -52,6 +51,7 @@ namespace DatingApp.API.Controllers
 
         public async Task<IActionResult> Login(UserForLoginDto userForLoginDto)
         {
+           
             var userFromRepo = await _repo.Login(userForLoginDto.Username.ToLower(), userForLoginDto.Password);
 
             if (userForLoginDto == null)
@@ -82,7 +82,7 @@ namespace DatingApp.API.Controllers
             {
                 token = tokenHandler.WriteToken(token)
             });
+            } 
         }
 
     }
-}
