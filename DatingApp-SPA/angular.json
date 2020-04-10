@@ -23,7 +23,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              {
+                "input": "./node_modules/bootstrap/dist/css/bootstrap.css"
+              }
             ],
             "scripts": [
               "node_modules/alertifyjs/build/alertify.min.js"
@@ -125,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "DatingApp-SPA"
+  "defaultProject": "DatingApp-SPA",
+  "cli": {
+    "analytics": "557ed372-bfdc-459b-bdc7-aab4a8c028da"
+  }
 }
